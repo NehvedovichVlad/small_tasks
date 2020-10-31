@@ -1,2 +1,2 @@
-# small_tasks-
+# small_tasks
 small learning tasks
