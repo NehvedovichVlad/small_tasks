@@ -31,12 +31,12 @@ bcdefghijklmnopqrstuvwxy
 # -------------------------------------------------------------------------------------------------
 
 # 1)вариант
-stroka=input()
-total=0
+stroka = input()
+total = 0
 for i in range(len(stroka)):
-    total+=1
+    total += 1
 print(total)
-print(stroka*3)
+print(stroka * 3)
 print(stroka[0])
 print(stroka[:3])
 print(stroka[-3:])
