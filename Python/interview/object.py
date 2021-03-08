@@ -13,9 +13,9 @@ B = A
 a = B()
 b = a
 print(b)
-<__main__.A instance at 0x16D07CC>
+#<__main__.A instance at 0x16D07CC>
 print(a)
-<__main__.A instance at 0x16D07CC>
+#<__main__.A instance at 0x16D07CC>
 """
 Класс состоит из имени, а имена вызываются с помощью переменной B,
 это создает экземпляр класса try. Суть метода заключается в том,
